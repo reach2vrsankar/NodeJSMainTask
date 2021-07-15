@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "student_name":"Khasim sharif Shaik"
+    },
+    {
+        "id":2,
+        "student_name":"Eklavya Sharma"
+    },
+    {
+        "id":3,
+        "student_name":"Shwetha R"
+    },
+    {
+        "id":4,
+        "student_name":"Amar Parihar"
+    },
+    {
+        "id":5,
+        "student_name":"Ragul Siva"
+    },
+    {
+        "id":6,
+        "student_name":"Nafi"
+    },
+    {
+        "id":7,
+        "student_name":"Kowshik Patel"
+    },
+    {
+        "id":8,
+        "student_name":"Bivas B"
+    },
+    {
+        "id":9,
+        "student_name":"Mithlesh kumar"
+    },
+    {
+        "id":10,
+        "student_name":"Prakash U"
+    },
+    {
+        "id":11,
+        "student_name":"Vishnu Radhakrishnan O"
+    },
+    {
+        "id":12,
+        "student_name":"Famila M"
+    },
+    {
+        "id":13,
+        "student_name":"ashitosh chilbule"
+    },
+    {
+        "id":14,
+        "student_name":"pallapothu venkatesh"
+    },
+    {
+        "id":15,
+        "student_name":"sumanraj ravi"
+    }
+]
